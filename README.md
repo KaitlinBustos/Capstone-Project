@@ -3,10 +3,10 @@ Prediction and Analysis of Psychiatric Medication Effectiveness
 
 Files: 
 
-merged.ipynb -> contains all project code 
+merged.ipynb: contains all project code 
 
-originaldata.csv -> contains the original data used for analysis 
+originaldata.csv: contains the original data used for analysis 
 
-data_new_model.csv -> contains cleaned and encoded data for modelling 
+data_new_model.csv: contains cleaned and encoded data for modelling 
 
-Technical Report.pdf -> technical summary of project 
+Technical Report.pdf: technical summary of project 
